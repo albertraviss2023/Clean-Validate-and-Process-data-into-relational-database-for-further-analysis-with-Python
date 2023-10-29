@@ -1,5 +1,5 @@
 # Clean-Validate-and-Process-data-into-relational-database-for-further-analysis-with-Python
-The goal of this project is to clean the data to prepare it for analysis and then import the cleaned data into a relational database. We will use input validation and label encoding to prepare a dataset and SQlite database to import the data. These cleaning techniques used in all types of data analysis, from simple linear regression to complex neural networks. Here we use SQlite because it is free and readily available even in standard OS but the process is the same for other relational database systems.
+The goal of this project is to Extract, transform and Load into a relational database. We will use input validation and label encoding to prepare a dataset and SQlite database to import the data. These transformation techniques are used in all types of data analysis, from simple linear regression to complex neural networks. Here we use SQlite because it is free and readily available even in standard OS but the process is the same for other relational database systems.
 
 ## General instructions:
 This Code Project provides python and SQL code that can be used clean data, and then import the cleaned data into a database. The code is organized into two single files in the parent folder.  
